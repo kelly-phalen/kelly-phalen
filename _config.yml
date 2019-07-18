@@ -14,11 +14,17 @@ footer: Kelly Phalen
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: stack-overflow
-    url: https://stackoverflow.com/users/11803965/kelly-phalen
+    url: https://stackoverflow.com/users/11803965/kelly-phalen 
+    name: Stack-Overflow
   - title: linkedin
     url: https://linkedin.com/in/kelly-phalen
+    name: LinkedIn
   - title: github
     url: https://github.com/kelly-phalen
+    name: Github
+  - title: medium
+    url: https://medium.com/@kelly.phalen13
+    name: Medium
 
 baseurl: /kelly-phalen
 

@@ -20,6 +20,8 @@ social:
   - title: github
     url: https://github.com/kelly-phalen
 
+baseurl: /kelly-phalen
+
 # Build settings
 markdown: kramdown
 permalink: pretty
